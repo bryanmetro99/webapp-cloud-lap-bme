@@ -1,0 +1,16 @@
+{
+  "name": "webapp-cloud-lap-bme",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@azure/storage-blob": "^12.31.0"
+  }
+}
